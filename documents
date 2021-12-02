@@ -1,0 +1,15 @@
+cd docuemnts
+mkdir hack-a-boss
+cd hack-a-boss
+mkdir mi-proyecto
+cd mi-proyeto
+git init
+ls -a
+nano lista de la compra
+lechuga
+tomate
+aceite
+vinagre
+sal
+
+ls
